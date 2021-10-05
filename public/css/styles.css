@@ -110,6 +110,33 @@ footer i {
 
 }
 
+/* LOGIN */
+
+main .login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+}
+
+.logForm {
+    margin: 15px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.usr {
+    margin: 20px;
+}
+
+.bt {
+    margin: 20px;
+}
+
+
 @media (min-width: 640px) {
     
     
